@@ -1,0 +1,14 @@
+html{
+  background-color:brown;
+
+}
+
+
+.container-fluid{
+  background-color:wheat;
+  
+  
+}
+input[type="text"]{
+  background: transparent;
+}
